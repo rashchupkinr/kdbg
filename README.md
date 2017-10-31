@@ -1,2 +1,2 @@
 # kdbg
-Lossless image compression codec
+Kernel-mode debugger for Linux.
